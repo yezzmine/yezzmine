@@ -9,7 +9,7 @@
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,github,figma,vscode" />
 </p>
 
 ---

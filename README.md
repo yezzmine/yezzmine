@@ -9,7 +9,7 @@
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,figma,vscode" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yezzmine&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yezzmine&show_icons=true&theme=default" />
 </p>
 
 <p>
@@ -32,4 +32,4 @@
 
 ## 📫 Reach Me
 
-- Email: yourprofessionalemail@email.com
+- GitHub: https://github.com/yezzmine

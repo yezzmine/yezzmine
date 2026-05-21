@@ -14,11 +14,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yezzmine)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yezzmine)
+## 📈 GitHub Movement
 
 ![Streak](https://streak-stats.demolab.com?user=yezzmine)
 

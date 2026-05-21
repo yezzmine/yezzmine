@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Yasmine Kate Bolivar 👋
 
-<!--
-**yezzmine/yezzmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Systems Student  
+📊 Interested in Business Analytics, Predictive Analytics, and System Development  
+💻 Currently working on analytics and business application projects  
+📍 Philippines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Data Analytics
+- Power BI
+- SQL
+- Python
+- Database Management
+- System Analysis and Design
+
+---
+
+## 📚 Current Projects
+
+- Predictive Analytics System for Student Exam Performance
+- Restaurant Management System
+- Pet Vaccination Tracker System
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI
+- MySQL
+- Python
+- Git & GitHub
+- Figma
+
+---
+
+## 📫 Connect With Me
+
+- Email:

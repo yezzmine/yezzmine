@@ -15,7 +15,7 @@
 ---
 
 ## 📈 GitHub Movement
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yezzmine&theme=github-dark&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yezzmine&theme=github-dark)
 
 ---
 

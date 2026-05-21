@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Movement
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yezzmine&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=yezzmine&theme=tokyonight&hide_border=true)
 
 ---
 

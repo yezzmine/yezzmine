@@ -16,17 +16,11 @@
 
 ## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yezzmine&show_icons=true&theme=default" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=yezzmine)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezzmine&layout=compact" />
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yezzmine)
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=yezzmine" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=yezzmine)
 
 ---
 

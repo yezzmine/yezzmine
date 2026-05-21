@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Movement
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yezzmine&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yezzmine)
 
 ---
 

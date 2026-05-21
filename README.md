@@ -2,40 +2,34 @@
 
 🎓 BS Information Systems Student  
 📊 Interested in Business Analytics, Predictive Analytics, and System Development  
-💻 Currently working on analytics and business application projects  
-📍 Philippines
+💻 Currently working on data-driven and business application projects
 
 ---
 
-## 🚀 Skills
+## 🛠 Languages & Tools
 
-- Data Analytics
-- Power BI
-- SQL
-- Python
-- Database Management
-- System Analysis and Design
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,figma,vscode" />
+</p>
 
 ---
 
-## 📚 Current Projects
+## 📈 GitHub Stats
 
-- Predictive Analytics System for Student Exam Performance
-- Restaurant Management System
-- Pet Vaccination Tracker System
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" />
+</p>
 
----
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+</p>
 
-## 🛠 Tools & Technologies
-
-- Power BI
-- MySQL
-- Python
-- Git & GitHub
-- Figma
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Reach Me
 
-- Email:
+- Email: yourprofessionalemail@email.com

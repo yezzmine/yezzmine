@@ -22,3 +22,4 @@
 ## 📫 Reach Me
 
 - GitHub: https://github.com/yezzmine
+- Email: yasminekatebolivar@gmail.com

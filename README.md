@@ -2,7 +2,7 @@
 
 🎓 BS Information Systems Student  
 📊 Interested in Business Analytics, Predictive Analytics, and System Development  
-💻 Currently working on data-driven and business application projects
+💻 Currently learning about data-driven and business application projects
 
 ---
 

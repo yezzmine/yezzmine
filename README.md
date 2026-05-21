@@ -17,15 +17,15 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yezzmine&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezzmine&layout=compact" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME" />
+  <img src="https://streak-stats.demolab.com?user=yezzmine" />
 </p>
 
 ---

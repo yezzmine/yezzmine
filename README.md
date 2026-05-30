@@ -1,8 +1,6 @@
 # Hi, I'm Yasmine Kate Bolivar 👋
 
 🎓 BS Information Systems Student  
-📊 Interested in Business Analytics, Predictive Analytics, and System Development  
-💻 Currently learning about data-driven and business application projects
 
 ---
 
